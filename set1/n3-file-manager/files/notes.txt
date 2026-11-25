@@ -1,0 +1,2 @@
+My Node.js activity notes
+I learned how to use fs and path.

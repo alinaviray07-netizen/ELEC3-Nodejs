@@ -1,0 +1,24 @@
+
+{
+  "name": "n1-setup",
+  "version": "1.0.0",
+  "description": "Node.js Project Setup Activity",
+  "keywords": [
+    "nodejs",
+    "activity"
+  ],
+  "license": "ISC",
+  "author": "Alina E. Viray",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.23"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
