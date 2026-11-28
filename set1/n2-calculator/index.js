@@ -3,7 +3,7 @@
 Name: Alina E. Viray
 Section: IV-BSIT-C
 Activity: N2 - Modular Calculator
-Date: November 22, 2026
+Date: November 24, 2026
 */
 
 const operations = require("./operations");
